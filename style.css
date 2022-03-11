@@ -1,0 +1,67 @@
+body{
+	background-image: url("tlo.png");
+}
+
+
+#kontener{
+
+width:80%;
+margin: 0 auto;
+}
+
+#baner {
+	background-image: url("baner.jpg");
+	color:white;
+	text-align: center;
+	padding:10px;
+	font-family:Arial;
+}
+#lewy {
+	height: 2000px;
+	width: 90%;
+	float:left;
+	background-image: url("tlo.jpg");
+	color:white
+}
+#prawy {
+	height: 2000px;
+	width: 10%;
+	float:left;
+	color:white;
+	background-image: url("tlo.jpg");
+}
+#stopka {
+	
+	color:white;
+	text-align:right;
+	font-family:Arial;
+	clear:both;
+	background-image: url("tlo.jpg");
+	
+	
+}
+
+td {
+	padding:1px;
+	border: solid black 1px; 
+	text-align:center;
+	background-color: grey;
+
+	
+	
+}
+
+a 
+{
+	color: white;
+	text-decoration:none;
+}
+
+.error
+		{
+			color:red;
+			margin-top: 10px;
+			margin-bottom: 10px;
+		}
+		
+
